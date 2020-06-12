@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_version">
+    <sys_ws_version action="DELETE">
+        <active>true</active>
+        <deprecated>false</deprecated>
+        <is_default>false</is_default>
+        <short_description/>
+        <sys_class_name>sys_ws_version</sys_class_name>
+        <sys_created_by>BL62F3EN</sys_created_by>
+        <sys_created_on>2020-06-11 15:37:45</sys_created_on>
+        <sys_id>540a81dedb95101083be9444ca96196c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>v1</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ws_version_540a81dedb95101083be9444ca96196c</sys_update_name>
+        <sys_updated_by>BL62F3EN</sys_updated_by>
+        <sys_updated_on>2020-06-11 15:37:45</sys_updated_on>
+        <version>1</version>
+        <version_id>v1</version_id>
+        <web_service_definition display_value="NeedIt API">793004dedb91101083be9444ca96194f</web_service_definition>
+    </sys_ws_version>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>8cf5f034db8a530c8264f70fbf9619ce</instance_id>
+        <instance_name>dev58930</instance_name>
+        <name>sys_ws_version_540a81dedb95101083be9444ca96196c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_version"><sys_ws_version action="INSERT_OR_UPDATE"><active>true</active><deprecated>false</deprecated><is_default>false</is_default><short_description/><sys_class_name>sys_ws_version</sys_class_name><sys_created_by>BL62F3EN</sys_created_by><sys_created_on>2020-06-11 15:37:45</sys_created_on><sys_id>540a81dedb95101083be9444ca96196c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>v1</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ws_version_540a81dedb95101083be9444ca96196c</sys_update_name><sys_updated_by>BL62F3EN</sys_updated_by><sys_updated_on>2020-06-11 15:37:45</sys_updated_on><version>1</version><version_id>v1</version_id><web_service_definition display_value="NeedIt API">793004dedb91101083be9444ca96194f</web_service_definition></sys_ws_version></record_update>]]></payload>
+        <payload_hash>-618272116</payload_hash>
+        <record_name>v1</record_name>
+        <reverted_from/>
+        <source>905bca9598f100107f2c2ed01a1f16ae</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>BL62F3EN</sys_created_by>
+        <sys_created_on>2020-06-11 15:37:45</sys_created_on>
+        <sys_id>d80a81dedb95101083be9444ca96196f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172a407ab300000001</sys_recorded_at>
+        <sys_updated_by>BL62F3EN</sys_updated_by>
+        <sys_updated_on>2020-06-11 15:37:45</sys_updated_on>
+        <type>Scripted REST Version</type>
+        <update_guid>140a81dede95101072590e8158211d6f</update_guid>
+        <update_guid_history>140a81dede95101072590e8158211d6f:-618272116</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>BL62F3EN</sys_created_by>
+        <sys_created_on>2020-06-12 06:33:01</sys_created_on>
+        <sys_db_object display_value="" name="sys_ws_version">sys_ws_version</sys_db_object>
+        <sys_id>16d9398a3a76480295c4a541420a0204</sys_id>
+        <sys_metadata>540a81dedb95101083be9444ca96196c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>v1</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ws_version_540a81dedb95101083be9444ca96196c</sys_update_name>
+        <sys_update_version display_value="sys_ws_version_540a81dedb95101083be9444ca96196c">d80a81dedb95101083be9444ca96196f</sys_update_version>
+        <sys_updated_by>BL62F3EN</sys_updated_by>
+        <sys_updated_on>2020-06-12 06:33:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
